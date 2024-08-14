@@ -1,3 +1,5 @@
+# Discord Botを使ってリマインド機能を実装するサンプルコード(channnel 指定版)
+
 import discord
 from discord.ext import commands, tasks
 import asyncio

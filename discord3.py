@@ -1,3 +1,5 @@
+# Discord Botを使って任意のチャンネルにリマインド機能を実装するサンプルコード(スレッド作成版)
+
 import discord
 from discord.ext import commands, tasks
 import asyncio

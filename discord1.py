@@ -1,3 +1,6 @@
+# discord.pyを使ってリマインド機能を実装するサンプルコード
+
+
 import discord
 from discord.ext import commands, tasks
 import asyncio

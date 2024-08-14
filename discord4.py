@@ -1,3 +1,8 @@
+# Description: リマインダー機能を追加したDiscord Botのサンプルコード
+# JSTでの時間指定とリマインダーのリアクション待ちを追加
+# 2024年8月14日現在で，一番機能が新しいコードです．
+
+
 import discord
 from discord.ext import commands
 import asyncio
